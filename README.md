@@ -1,2 +1,1 @@
-# to-do-list
-To-Do-List 練習
+# To-Do-List 練習
